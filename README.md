@@ -1,10 +1,11 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Jet Lee** (*180100012*)- Backend Developer (GitHub account: *jetlee*)
-+ **Jacky Chan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
-
++ **Kairolla Nurkhan** (*180103080*)- Project Manager (GitHub account: *nurkhankk*)
++ **Samarkhan Syngys** (*180103162*)- Backend Developer (GitHub account: *jetlee*)
++ **Taukye Akhjol** (*180103203*) - Frontend Developer (GitHub account: *jackychan*)
++ **Kalzhanova Zhansaule** (*180103247*)- UX/UI Designer (GitHub account: *kalzhanova*)
 ## Project
-This project is yet-another clone of Instagram
+Our project for SDU students, which will help students who are lagging behind in certain subjects to improve their knowledge in this direction.
 
 ## Alternatives / Market research
 | Research alternatives
