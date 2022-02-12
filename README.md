@@ -16,7 +16,7 @@
 + **What is our goal?**\
 Our goal is to create a website for SDU students, which will help students who are lagging behind in certain subjects to improve their knowledge in this area.
 + **What problems does our project solve?**\
-We all know that newly admitted students experience many problems with their subjects. In SDU, teachers have an office aurs once a week where students can come and ask their questions. But not all students manage to get to this office aurs, as some students may have another subject at this time.\
+We all know that newly admitted students experience many problems with their subjects. In SDU, teachers have an office hours once a week where students can come and ask their questions. But not all students manage to get to this office hours, as some students may have another subject at this time.\
 Also, as we know, many undergraduates are faced with the problem of closing the Internship course. It is rather problematic to find a job for students without work experience where he could do an internship.\
 Thanks to our website, final year students who know this or that subject very well will be able to conduct classes for elementary students, helping them to succeed in this subject, thus, with a good indicator of teaching and knowledge of this subject, close their Internship subject.
 
