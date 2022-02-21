@@ -1,10 +1,17 @@
 > This folders will contain your reports
 ## Week by week plan
-|...|Jet Lee|Jacky Chan|
-|---|---|---|
-|Week #3|Create home web page|Design home web page|
-|Week #4|Create database models|Analyze customer expectations|
-|Week #5|Create home web page|Design home web page|
-|Week #6|Create database models|Analyze customer expectations|
-|...|...|...|
-|Week #15|...|...|
+|...|Kairolla Nurkhan|Samarkhan Shyngys|Taukye Akhjol|Kalzhanova Zhansaule|
+|---|---|---|---|---|
+|Week #3|Working on a project idea. Set project deadlines|I will get familiar with the project, and understand what methods and functions will be used|Understanding and analyzing the project|Familiarization with the functionality and logic of the project, and find similar sites|
+|Week #4|Write a Project Proposal|I will work with a framework like Java Spring Boot, I need to choose dependencies and mavens so that the project starts correctly|Discussing with the team members about project and features. Doing research on websites which have same logic with our project. Also making individual plans for weeks|Familiarization with similar sites and studying them, during the process, note the necessary, suitable moments, pages from these sites|
+|Week #5|Discuss the design of the project with the designer. Parse sitemap. Assign tasks to a team|I will write the architecture and configure the database on Postgresql. I will also create the necessary tables with different bundles|Working with UI/UX developer about icon and website design|Create a clear MindMap for yourself, taking into account the detailed elements, information of each page to visualize how everything will work. And start drawing High-fidelity Wireframe for Student pages|
+|Week #6|Check the start of the command. Solve incidental work|I will write a method for creating a user and editing. There will also be methods to secure user data|Making general plan such as layout organization, components, pages and rendering as frontend developer. Installing required extensions, dependencies and tailwind to code|Discuss the process with the team. Continue drawing and start drawing the High-fidelity Wireframe for the Teacher pages, and collect the components into a UI-kit during the process|
+|Week #7|Start working on project documentation. Weekly team review|I will write methods for registering courses for students, as well as the choice of subjects and teachers|Working on designed parts such as icons and buttons|Discuss again with the team, and then choose a color for the icon, button, and important elements, as well as search for illustrations and images. And proceed to the UI part|
+|Week #8|Carrying out CustDev. Weekly team review|I will create methods for teachers where you can see the current course|Starting to implement header and navbar|Make a clear prototype for developers|
+|Week #9|Work on project risks. Weekly team review|This week I also continue to write methods for creating and editing courses for teachers|Continue to implementing components and pages according to design|Test the prototype on SDU students, mark missed, inconvenient moments as notes|
+|Week #10|Meeting with stakeholders|I will write methods for linking courses between students and teachers|Making interactions between styled components using context. Also continue to implement components|Make an analysis based on the test results, prescribe where you need to correct, supplement|
+|Week #11|Finish project documentation. Weekly team review|I will create a method for a blog where there will be like-minded people and could discuss different topics, (as a messenger)|Making website responsive which means website will be dynamic based on screen sizes|Work with the complement of the moment, taking into account the results of the analysis|
+|Week #12|Final review of the project|I will continue to write methods for creating blog and use websocket|Pagination and writing react context API to link pages with React router|Draw pages for error 404, 505, 0000, find suitable illustrations for them|
+|Week #13|Work on bugs|I will write methods for creating libraries where teachers can upload their materials|Working on API to get json data. Also writing functions to search and filter data|Check the work of the front-end developers, compare our work (padding, fonts, sizes)|
+|Week #14|Preparing a project presentation|I will write methods for saving materials on the server side|Connecting with database and backend to load and update data|Work with suggestions from developers, if you need to change the paddings, sizes|
+|Week #15|Project presentation|I will correct errors if they are also examined completely by the backend part|Making optimizations with react hooks like useMemo, lazy loading to make website fast. Then making final maintenances|Check the development, make a final comparison, suggest moments for correction (if there are errors)|
