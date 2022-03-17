@@ -1,7 +1,19 @@
 # Kairolla Nurkhan
 This week I held a meeting with the team, prioritized the tasks and drew conclusions on the previous tasks. We discussed with the backend developer the functional part of registering students for courses, as well as how exactly we will organize a blog on our website.
+
+A small part of the discussion was user registration. User confirmation information. Since our site will initially be available only to SDU students, registration will only take place by SDU mail.
+
+<img width="495" alt="Снимок экрана 2022-03-17 в 15 48 14" src="https://user-images.githubusercontent.com/49468283/158782753-6728c17a-7ffd-431a-b074-c1d5ba31580e.png">
+
+<img width="506" alt="Снимок экрана 2022-03-17 в 15 49 43" src="https://user-images.githubusercontent.com/49468283/158783036-a426a9f5-0a05-4e5b-bb77-c0c51fbb25a7.png">
+
 # Samarkhan Shyngys
-I  created methods for teachers where you can see the current course. And I maked architecture of postgresql for teacher courses.
+In week 8, I created methods for teachers where the teacher (Assistant) can see the current course. And how many students are registered. You can also see other details such as the time and information about this course. Before creating methods and queries, I created a postgresql architecture for courses for teachers. The table is called teacher_course, at the moment there are several columns(id, course_name, course_info, course_time, assistent_id ).
+
+<img width="251" alt="image" src="https://user-images.githubusercontent.com/49468283/158781520-d0b263bc-10b2-4028-9a36-e7726d523452.png">
+
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/49468283/158781556-18556367-221c-41e0-bbfb-1296ddddad42.png">
+
 # Kalzhanova Zhansaule
 * In the 8th week, I was busy with the corrections, and also drew the Assistant Profile page. Here I added the same sections as the Student section, and additionally, the Work Experience section was added. And also in the sections My courses, My library there is a function that is performed through the Add button. And also, respectively, blank pages were drawn for each section.
 <img width="215" alt="image" src="https://user-images.githubusercontent.com/49468283/158154651-c2101af2-cc0c-4da1-8ca3-6c684289fd6e.png">
