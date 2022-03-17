@@ -4,8 +4,12 @@
 * We worked out some moments with the designer and front-end developer.
 <img width="772" alt="Снимок экрана 2022-03-17 в 15 29 34" src="https://user-images.githubusercontent.com/49468283/158779498-2eb7e6b5-00bd-4f00-aa66-9f1dde6d08ee.png">
 
+There was discussion about additional materials. How they will be available to users. At the moment, the entire library is available in the public domain. Perhaps we will make sure that each teacher additionally opens a library specifically for his students with the necessary materials for classes.
+<img width="773" alt="Снимок экрана 2022-03-17 в 15 36 50" src="https://user-images.githubusercontent.com/49468283/158780731-100a6ac4-a9aa-46ab-905c-3f27ba4a5c53.png">
+
 # Samarkhan Shyngys
 In week 7, I created methods for registering courses for students, the student can choose courses and teachers. I have developed methods for registering courses for students. After that, there are methods that the student receives information about this course. Before creating methods and queries, I created a postgresql architecture for students, courses for students. The tables are called users, course_student. course_student currently there are several columns(id, course_student, course_info, course_time, student_id).
+
 <img width="202" alt="image" src="https://user-images.githubusercontent.com/49468283/158776445-bad83ffd-37b2-4aa8-bb5b-9b36814a6955.png">
 
 
