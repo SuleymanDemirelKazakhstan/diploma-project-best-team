@@ -1,7 +1,14 @@
 # Kairolla Nurkhan
-This week I started working on the project documentation. I checked the work of the team, and outlined the tasks for the next week. We worked out some moments with the designer and front-end developer.
+* This week I started working on the project documentation. 
+* I checked the work of the team, and outlined the tasks for the next week.  
+* We worked out some moments with the designer and front-end developer.
+<img width="772" alt="Снимок экрана 2022-03-17 в 15 29 34" src="https://user-images.githubusercontent.com/49468283/158779498-2eb7e6b5-00bd-4f00-aa66-9f1dde6d08ee.png">
+
 # Samarkhan Shyngys
-I built a database architecture for students and wrote methods for registering courses for students, as well as selecting subjects and teachers. I have made methods for registering courses for students, as well as selecting subjects and teachers.
+In week 7, I created methods for registering courses for students, the student can choose courses and teachers. I have developed methods for registering courses for students. After that, there are methods that the student receives information about this course. Before creating methods and queries, I created a postgresql architecture for students, courses for students. The tables are called users, course_student. course_student currently there are several columns(id, course_student, course_info, course_time, student_id).
+<img width="202" alt="image" src="https://user-images.githubusercontent.com/49468283/158776445-bad83ffd-37b2-4aa8-bb5b-9b36814a6955.png">
+
+
 # Kalzhanova Zhansaule
 * According to the plan, I had to finish all the pages from the side of the entrance of the Student. Below I will describe each page that was added.
 “Course details” page. On this page, the course is described, as well as about the teacher, his education, work experience and certificates are provided, and on the side you can immediately sign up for courses, choosing a convenient time from the available ones. All of these provided information is filled in when creating a course from an assistant, as well as during registration. After recording, we get a modal window about the successful process. And also there is an opportunity to send a message, if necessary.
