@@ -1,6 +1,6 @@
 # Kairolla Nurkhan (Project manager)
-*This week I checked the work of the team. Set goals for the next week.
-*Slightly changed the structure when entering the site. Initially, it was planned that our site would be similar to the SDU portal, that is, when we enter, we will be immediately greeted by Login / Signup. It was decided to make it so that the user first went to our site, got acquainted with the available courses, and then registered if desired.
+* This week I checked the work of the team. Set goals for the next week.
+* Slightly changed the structure when entering the site. Initially, it was planned that our site would be similar to the SDU portal, that is, when we enter, we will be immediately greeted by Login / Signup. It was decided to make it so that the user first went to our site, got acquainted with the available courses, and then registered if desired.
 
 <img width="734" alt="Снимок экрана 2022-03-28 в 16 13 16" src="https://user-images.githubusercontent.com/49468283/160376939-84d8a3d1-899d-4f33-8b82-a1b3e5bcedcb.png">
 
