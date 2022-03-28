@@ -7,6 +7,7 @@
 For the documentation of the thesis, as an example, I used the following sites.
 
 http://elib.sfu-kras.ru/handle/2311/34827
+
 https://kopilkaurokov.ru/informatika/prochee/diplomnaia-rabota-na-tiemu-razrabotka-vieb-saita-dlia-shkoly
 
 # Samarkhan Shyngys (Backend developer)
