@@ -4,6 +4,10 @@
 
 <img width="734" alt="Снимок экрана 2022-03-28 в 16 13 16" src="https://user-images.githubusercontent.com/49468283/160376939-84d8a3d1-899d-4f33-8b82-a1b3e5bcedcb.png">
 
+For the documentation of the thesis, as an example, I used the following sites.
+http://elib.sfu-kras.ru/handle/2311/34827
+https://kopilkaurokov.ru/informatika/prochee/diplomnaia-rabota-na-tiemu-razrabotka-vieb-saita-dlia-shkoly
+
 # Samarkhan Shyngys (Backend developer)
 When we are doing our local project and we need to receive requests from external services during integration.
 Because, the developer of the front has to make requests while in another place.
