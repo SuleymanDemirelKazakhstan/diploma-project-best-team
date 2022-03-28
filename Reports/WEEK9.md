@@ -31,12 +31,14 @@ On the 9th week, a prototype was made through interactive components and the UI 
 
 ![image 11](https://user-images.githubusercontent.com/49468283/160377382-f92dd8df-c355-4578-b065-0dc82bcfd2c6.png)
 
+![image 8 (2)](https://user-images.githubusercontent.com/49468283/160383022-7f01c317-7965-4af7-b876-b66122a866dc.png)
+
 # Taukye Akhjol (Frontend developer)
 I have wrote a code which is our another main page of project. The page where apply to be assistant. 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/49468283/160369029-f56dfc10-70cc-49c3-9ec6-04db08cca07f.png">
  
- <img width="508" alt="image" src="https://user-images.githubusercontent.com/49468283/160369058-49000c4c-eecc-43ec-8ddd-e9ec9e8a02a7.png">
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/49468283/160369058-49000c4c-eecc-43ec-8ddd-e9ec9e8a02a7.png">
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/49468283/160369081-0bd3a863-d39c-4379-b7bf-bdac49f91c8a.png">
 
