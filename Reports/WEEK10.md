@@ -14,4 +14,10 @@ each of them can download or save it to themselves. In the future, the library w
 # Kalzhanova Zhansaule (UI/UX designer)
 
 # Taukye Akhjol (Frontend developer)
+These week I have updated some parts of project. For example, I have uploaded images in pages.
+Also continued to write components. Some examples are below. Also I have made some interactions to switch pages. And in library it has been able to change by left and right buttons.
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/49468283/160370111-cca2d351-6535-425b-8d94-23a42f704d49.png">
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/49468283/160370127-dd68b7be-7279-46c7-9b23-5cc6eb138ce3.png">
 
