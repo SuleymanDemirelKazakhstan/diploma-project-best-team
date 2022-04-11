@@ -1,4 +1,12 @@
 # Kairolla Nurkhan (Project manager)
+<img width="1780" alt="Снимок экрана 2022-04-11 в 15 25 34" src="https://user-images.githubusercontent.com/49468283/162710356-ce2b6176-4159-48c2-a5ef-0d9d73332ebe.png">
+
+At week 11, I checked the work of the team, set tasks for the coming week.
+According to the plan, this week we have to finish work on the modules "Find an assistant", "Student profile", "Assistant profile".
+
+<img width="339" alt="Снимок экрана 2022-04-11 в 15 38 12" src="https://user-images.githubusercontent.com/49468283/162711182-be3edab4-b6be-4ccb-8e37-5b3ff28fc7b4.png">
+<img width="401" alt="Снимок экрана 2022-04-11 в 15 39 37" src="https://user-images.githubusercontent.com/49468283/162711413-3b4a59ee-b63a-42aa-ae21-f57452251f3d.png">
+
 
 
 # Samarkhan Shyngys (Backend developer)
