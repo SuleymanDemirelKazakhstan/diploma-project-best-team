@@ -1,7 +1,7 @@
 # CSS 410 Research tools and methods
 ## Team members
 + **Kairolla Nurkhan** (*180103080*)- Project Manager (GitHub account: *nurkhankk*)
-+ **Samarkhan Syngys** (*180103162*)- Backend Developer (GitHub account: *chingisss01*)
++ **Samarkhan Shyngys** (*180103162*)- Backend Developer (GitHub account: *chingisss01*)
 + **Taukye Akhjol** (*180103203*) - Frontend Developer (GitHub account: *akhjol99*)
 + **Kalzhanova Zhansaule** (*180103247*)- UX/UI Designer (GitHub account: *kalzhanova*)
 ## Project
